@@ -12,6 +12,9 @@ Current features:
 - Create posts (long press on the subreddit title)
 - Create comments (long press on the post title or comment)
 
+The auth token is saved under `~/.reddit-token`.  
+Delete the file if you want to log in with a different account.
+
 ## Installing
 
 Download a file from the releases, or just build it yourself, it only needs Python and Bash.
